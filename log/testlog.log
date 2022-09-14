@@ -1,0 +1,450 @@
+2022-09-13 10:58:17,831 - cigna -INFO - start
+2022-09-13 10:58:17,850 - cigna -INFO - start
+2022-09-13 10:58:17,860 - cigna -INFO - start
+2022-09-13 10:58:17,867 - cigna -INFO - start
+2022-09-13 11:08:38,453 - cigna -INFO - start
+2022-09-13 11:08:38,495 - cigna -INFO - start
+2022-09-13 11:08:38,523 - cigna -INFO - start
+2022-09-13 11:08:38,538 - cigna -INFO - start
+2022-09-13 11:25:41,285 - cigna -INFO - start
+2022-09-13 11:25:41,305 - cigna -INFO - start
+2022-09-13 11:25:41,316 - cigna -INFO - start
+2022-09-13 11:25:41,324 - cigna -INFO - start
+2022-09-13 13:28:08,103 - camlin -INFO - URL in opened
+2022-09-13 13:28:11,011 - camlin -INFO - URL in opened
+2022-09-13 13:28:13,034 - camlin -INFO - URL in opened
+2022-09-13 13:28:13,723 - camlin -INFO - URL in opened
+2022-09-13 13:29:22,581 - camlin -INFO - URL in opened
+2022-09-13 13:29:25,021 - camlin -INFO - URL in opened
+2022-09-13 13:29:27,308 - camlin -INFO - URL in opened
+2022-09-13 13:29:29,373 - camlin -INFO - URL in opened
+2022-09-14 00:38:27,446 - camlin -INFO - URL in opened
+2022-09-14 00:39:51,445 - camlin -INFO - URL in opened
+2022-09-14 00:41:23,371 - camlin -INFO - URL in opened
+2022-09-14 00:41:42,544 - camlin -INFO - URL in opened
+2022-09-14 00:41:49,587 - camlin -INFO - URL in opened
+2022-09-14 00:41:56,662 - camlin -INFO - URL in opened
+2022-09-14 00:46:52,104 - camlin -INFO - URL in opened
+2022-09-14 00:49:33,765 - camlin -INFO - URL in opened
+2022-09-14 00:49:39,508 - camlin -INFO - URL in opened
+2022-09-14 00:50:55,557 - camlin -INFO - URL in opened
+2022-09-14 00:51:00,483 - camlin -INFO - URL in opened
+2022-09-14 00:51:52,408 - camlin -INFO - URL in opened
+2022-09-14 00:51:56,079 - camlin -INFO - URL in opened
+2022-09-14 00:51:59,429 - camlin -INFO - URL in opened
+2022-09-14 00:52:02,901 - camlin -INFO - URL in opened
+2022-09-14 10:46:43,012 - camlin -INFO - URL in opened
+2022-09-14 10:46:54,025 - camlin -INFO - URL in opened
+2022-09-14 10:50:19,411 - camlin -INFO - URL in opened
+2022-09-14 10:50:32,701 - camlin -INFO - URL in opened
+2022-09-14 10:54:26,202 - camlin -INFO - URL in opened
+2022-09-14 10:54:37,030 - camlin -INFO - URL in opened
+2022-09-14 10:55:43,674 - camlin -INFO - URL in opened
+2022-09-14 10:56:17,579 - camlin -INFO - URL in opened
+2022-09-14 10:57:13,540 - camlin -INFO - URL in opened
+2022-09-14 10:58:23,748 - camlin -INFO - URL in opened
+2022-09-14 11:27:57,093 - camlin -INFO - URL in opened
+2022-09-14 11:28:06,026 - camlin -INFO - URL in opened
+2022-09-14 11:28:12,167 - camlin -INFO - URL in opened
+2022-09-14 11:28:18,327 - camlin -INFO - URL in opened
+2022-09-14 12:09:11,566 - camlin -INFO - URL in opened
+2022-09-14 12:09:18,086 - camlin -INFO - Close cookie popup
+2022-09-14 12:09:18,540 - camlin -INFO - Close international popyp
+2022-09-14 12:09:19,088 - camlin -INFO - Open search popup
+2022-09-14 12:09:21,828 - camlin -INFO - Enter search query
+2022-09-14 12:09:25,817 - camlin -INFO - Click search button
+2022-09-14 12:09:26,532 - camlin -INFO - Wait till 'Search Results' title appear
+2022-09-14 12:09:27,436 - camlin -INFO - Delete all cookie
+2022-09-14 12:09:30,880 - camlin -INFO - URL in opened
+2022-09-14 12:09:31,113 - camlin -INFO - Close cookie popup
+2022-09-14 12:09:31,483 - camlin -INFO - Close international popyp
+2022-09-14 12:09:31,914 - camlin -INFO - Open search popup
+2022-09-14 12:09:31,998 - camlin -INFO - Enter search query
+2022-09-14 12:09:34,538 - camlin -INFO - Click search button
+2022-09-14 12:09:34,592 - camlin -INFO - Wait till 'Search Results' title appear
+2022-09-14 12:09:38,127 - camlin -INFO - Delete all cookie
+2022-09-14 12:09:40,637 - camlin -INFO - URL in opened
+2022-09-14 12:09:40,816 - camlin -INFO - Close cookie popup
+2022-09-14 12:09:41,181 - camlin -INFO - Close international popyp
+2022-09-14 12:09:41,807 - camlin -INFO - Open search popup
+2022-09-14 12:09:41,896 - camlin -INFO - Enter search query
+2022-09-14 12:09:44,632 - camlin -INFO - Click search button
+2022-09-14 12:09:44,669 - camlin -INFO - Wait till 'Search Results' title appear
+2022-09-14 12:09:48,579 - camlin -INFO - URL in opened
+2022-09-14 12:16:25,525 - camlin -INFO - URL in opened
+2022-09-14 12:16:25,748 - camlin -INFO - Close cookie popup
+2022-09-14 12:16:26,140 - camlin -INFO - Close international popyp
+2022-09-14 12:16:26,662 - camlin -INFO - Open search popup
+2022-09-14 12:16:26,949 - camlin -INFO - Enter search query
+2022-09-14 12:16:30,978 - camlin -INFO - Click search button
+2022-09-14 12:16:31,049 - camlin -INFO - Wait till 'Search Results' title appear
+2022-09-14 12:16:31,052 - camlin -INFO - Passed
+2022-09-14 12:16:32,947 - camlin -INFO - Delete all cookie
+2022-09-14 12:16:35,393 - camlin -INFO - URL in opened
+2022-09-14 12:16:35,516 - camlin -INFO - Close cookie popup
+2022-09-14 12:16:35,949 - camlin -INFO - Close international popyp
+2022-09-14 12:16:36,380 - camlin -INFO - Open search popup
+2022-09-14 12:16:36,492 - camlin -INFO - Enter search query
+2022-09-14 12:16:38,663 - camlin -INFO - Click search button
+2022-09-14 12:16:38,713 - camlin -INFO - Wait till 'Search Results' title appear
+2022-09-14 12:16:38,716 - camlin -INFO - Passed
+2022-09-14 12:16:39,136 - camlin -INFO - Delete all cookie
+2022-09-14 12:16:41,598 - camlin -INFO - URL in opened
+2022-09-14 12:16:41,828 - camlin -INFO - Close cookie popup
+2022-09-14 12:16:42,258 - camlin -INFO - Close international popyp
+2022-09-14 12:16:42,671 - camlin -INFO - Open search popup
+2022-09-14 12:16:42,744 - camlin -INFO - Enter search query
+2022-09-14 12:16:45,222 - camlin -INFO - Click search button
+2022-09-14 12:16:45,257 - camlin -INFO - Wait till 'Search Results' title appear
+2022-09-14 12:16:48,356 - camlin -INFO - URL in opened
+2022-09-14 12:21:28,620 - camlin -INFO - URL in opened
+2022-09-14 12:21:28,797 - camlin -INFO - Close cookie popup
+2022-09-14 12:21:29,233 - camlin -INFO - Close international popyp
+2022-09-14 12:21:29,657 - camlin -INFO - Open search popup
+2022-09-14 12:21:29,887 - camlin -INFO - Enter search query
+2022-09-14 12:21:34,643 - camlin -INFO - Click search button
+2022-09-14 12:21:34,714 - camlin -INFO - Wait till 'Search Results' title appear
+2022-09-14 12:21:34,717 - camlin -INFO - Passed for positive test cases
+2022-09-14 12:21:34,897 - camlin -INFO - Delete all cookie
+2022-09-14 12:21:37,556 - camlin -INFO - URL in opened
+2022-09-14 12:21:37,683 - camlin -INFO - Close cookie popup
+2022-09-14 12:21:38,090 - camlin -INFO - Close international popyp
+2022-09-14 12:21:38,580 - camlin -INFO - Open search popup
+2022-09-14 12:21:38,671 - camlin -INFO - Enter search query
+2022-09-14 12:21:41,165 - camlin -INFO - Click search button
+2022-09-14 12:21:41,206 - camlin -INFO - Wait till 'Search Results' title appear
+2022-09-14 12:21:41,207 - camlin -INFO - Passed for positive test cases
+2022-09-14 12:21:41,399 - camlin -INFO - Delete all cookie
+2022-09-14 12:21:44,600 - camlin -INFO - URL in opened
+2022-09-14 12:21:44,764 - camlin -INFO - Close cookie popup
+2022-09-14 12:21:45,130 - camlin -INFO - Close international popyp
+2022-09-14 12:21:45,601 - camlin -INFO - Open search popup
+2022-09-14 12:21:45,683 - camlin -INFO - Enter search query
+2022-09-14 12:21:48,349 - camlin -INFO - Click search button
+2022-09-14 12:21:48,383 - camlin -INFO - Wait till 'Search Results' title appear
+2022-09-14 12:21:51,466 - camlin -INFO - URL in opened
+2022-09-14 12:41:24,606 - camlin -INFO - URL in opened
+2022-09-14 12:41:25,785 - camlin -INFO - Close cookie popup
+2022-09-14 12:41:26,255 - camlin -INFO - Close international popyp
+2022-09-14 12:41:26,786 - camlin -INFO - Open search popup
+2022-09-14 12:41:26,973 - camlin -INFO - Enter search query
+2022-09-14 12:41:30,609 - camlin -INFO - Click search button
+2022-09-14 12:41:31,288 - camlin -INFO - Wait till 'Search Results' title appear
+2022-09-14 12:41:35,891 - camlin -INFO - Passed for positive test cases
+2022-09-14 12:41:36,385 - camlin -INFO - Delete all cookie
+2022-09-14 12:41:38,909 - camlin -INFO - URL in opened
+2022-09-14 12:41:39,077 - camlin -INFO - Close cookie popup
+2022-09-14 12:41:39,465 - camlin -INFO - Close international popyp
+2022-09-14 12:41:39,949 - camlin -INFO - Open search popup
+2022-09-14 12:41:40,041 - camlin -INFO - Enter search query
+2022-09-14 12:41:42,453 - camlin -INFO - Click search button
+2022-09-14 12:41:42,496 - camlin -INFO - Wait till 'Search Results' title appear
+2022-09-14 12:41:44,284 - camlin -INFO - Passed for positive test cases
+2022-09-14 12:41:44,575 - camlin -INFO - Delete all cookie
+2022-09-14 12:41:46,984 - camlin -INFO - URL in opened
+2022-09-14 12:41:47,132 - camlin -INFO - Close cookie popup
+2022-09-14 12:41:47,532 - camlin -INFO - Close international popyp
+2022-09-14 12:41:48,026 - camlin -INFO - Open search popup
+2022-09-14 12:41:48,113 - camlin -INFO - Enter search query
+2022-09-14 12:41:53,098 - camlin -INFO - Click search button
+2022-09-14 12:41:53,163 - camlin -INFO - Wait till 'Search Results' title appear
+2022-09-14 12:41:56,230 - camlin -INFO - URL in opened
+2022-09-14 12:47:12,983 - camlin -INFO - URL in opened
+2022-09-14 12:47:13,381 - camlin -INFO - Close cookie popup
+2022-09-14 12:47:13,960 - camlin -INFO - Close international popup
+2022-09-14 12:47:14,473 - camlin -INFO - Open search popup
+2022-09-14 12:47:14,605 - camlin -INFO - Enter search query
+2022-09-14 12:47:21,867 - camlin -INFO - Click search button
+2022-09-14 12:47:21,980 - camlin -INFO - Wait till 'Search Results' title appear
+2022-09-14 12:47:26,206 - camlin -INFO - Passed for positive test cases
+2022-09-14 12:47:26,373 - camlin -INFO - Delete all cookie
+2022-09-14 12:47:28,858 - camlin -INFO - URL in opened
+2022-09-14 12:47:29,012 - camlin -INFO - Close cookie popup
+2022-09-14 12:47:29,413 - camlin -INFO - Close international popup
+2022-09-14 12:47:29,886 - camlin -INFO - Open search popup
+2022-09-14 12:47:30,003 - camlin -INFO - Enter search query
+2022-09-14 12:47:32,333 - camlin -INFO - Click search button
+2022-09-14 12:47:32,383 - camlin -INFO - Wait till 'Search Results' title appear
+2022-09-14 12:47:35,286 - camlin -INFO - Passed for positive test cases
+2022-09-14 12:47:35,478 - camlin -INFO - Delete all cookie
+2022-09-14 12:47:37,997 - camlin -INFO - URL in opened
+2022-09-14 12:47:38,163 - camlin -INFO - Close cookie popup
+2022-09-14 12:47:38,523 - camlin -INFO - Close international popup
+2022-09-14 12:47:38,986 - camlin -INFO - Open search popup
+2022-09-14 12:47:39,062 - camlin -INFO - Enter search query
+2022-09-14 12:47:41,679 - camlin -INFO - Click search button
+2022-09-14 12:47:41,735 - camlin -INFO - Wait till 'Search Results' title appear
+2022-09-14 12:47:44,534 - camlin -INFO - URL in opened
+2022-09-14 12:49:31,897 - camlin -INFO - URL in opened
+2022-09-14 12:49:32,070 - camlin -INFO - Close cookie popup
+2022-09-14 12:49:32,509 - camlin -INFO - Close international popup
+2022-09-14 12:49:32,976 - camlin -INFO - Open search popup
+2022-09-14 12:49:33,143 - camlin -INFO - Enter search query
+2022-09-14 12:49:37,022 - camlin -INFO - Click search button
+2022-09-14 12:49:37,090 - camlin -INFO - Wait till 'Search Results' title appear
+2022-09-14 12:49:37,316 - camlin -INFO - Delete all cookie
+2022-09-14 12:49:39,467 - camlin -INFO - URL in opened
+2022-09-14 12:49:39,617 - camlin -INFO - Close cookie popup
+2022-09-14 12:49:39,982 - camlin -INFO - Close international popup
+2022-09-14 12:49:40,440 - camlin -INFO - Open search popup
+2022-09-14 12:49:40,528 - camlin -INFO - Enter search query
+2022-09-14 12:49:43,266 - camlin -INFO - Click search button
+2022-09-14 12:49:43,311 - camlin -INFO - Wait till 'Search Results' title appear
+2022-09-14 12:49:43,507 - camlin -INFO - Delete all cookie
+2022-09-14 12:49:45,914 - camlin -INFO - URL in opened
+2022-09-14 12:49:46,076 - camlin -INFO - Close cookie popup
+2022-09-14 12:49:46,502 - camlin -INFO - Close international popup
+2022-09-14 12:49:46,976 - camlin -INFO - Open search popup
+2022-09-14 12:49:47,062 - camlin -INFO - Enter search query
+2022-09-14 12:49:49,840 - camlin -INFO - Click search button
+2022-09-14 12:49:49,872 - camlin -INFO - Wait till 'Search Results' title appear
+2022-09-14 12:49:50,069 - camlin -INFO - Delete all cookie
+2022-09-14 12:49:52,071 - camlin -INFO - URL in opened
+2022-09-14 12:49:52,205 - camlin -INFO - Close cookie popup
+2022-09-14 12:49:52,584 - camlin -INFO - Close international popup
+2022-09-14 12:49:53,002 - camlin -INFO - Open search popup
+2022-09-14 12:49:53,102 - camlin -INFO - Enter search query
+2022-09-14 12:49:55,240 - camlin -INFO - Click search button
+2022-09-14 12:49:55,292 - camlin -INFO - Wait till 'Search Results' title appear
+2022-09-14 12:49:55,528 - camlin -INFO - Delete all cookie
+2022-09-14 12:51:00,401 - camlin -INFO - URL in opened
+2022-09-14 12:51:00,603 - camlin -INFO - Close cookie popup
+2022-09-14 12:51:01,061 - camlin -INFO - Close international popup
+2022-09-14 12:51:01,500 - camlin -INFO - Open search popup
+2022-09-14 12:51:01,839 - camlin -INFO - Enter search query
+2022-09-14 12:51:06,695 - camlin -INFO - Click search button
+2022-09-14 12:51:06,761 - camlin -INFO - Wait till 'Search Results' title appear
+2022-09-14 12:51:06,764 - camlin -INFO - Passed for positive test cases
+2022-09-14 12:51:10,312 - camlin -INFO - URL in opened
+2022-09-14 12:53:02,780 - camlin -INFO - URL in opened
+2022-09-14 12:53:02,981 - camlin -INFO - Close cookie popup
+2022-09-14 12:53:03,418 - camlin -INFO - Close international popup
+2022-09-14 12:53:04,063 - camlin -INFO - Open search popup
+2022-09-14 12:53:04,488 - camlin -INFO - Enter search query
+2022-09-14 12:53:10,698 - camlin -INFO - Click search button
+2022-09-14 12:53:10,839 - camlin -INFO - Wait till 'Search Results' title appear
+2022-09-14 12:53:10,846 - camlin -INFO - Passed for positive test cases
+2022-09-14 12:53:14,266 - camlin -INFO - URL in opened
+2022-09-14 12:54:06,919 - camlin -INFO - URL in opened
+2022-09-14 12:54:07,286 - camlin -INFO - Close cookie popup
+2022-09-14 12:54:07,756 - camlin -INFO - Close international popup
+2022-09-14 12:54:08,210 - camlin -INFO - Open search popup
+2022-09-14 12:54:08,529 - camlin -INFO - Enter search query
+2022-09-14 12:54:16,425 - camlin -INFO - Click search button
+2022-09-14 12:54:16,568 - camlin -INFO - Wait till 'Search Results' title appear
+2022-09-14 12:54:16,572 - camlin -INFO - Passed for positive test cases
+2022-09-14 12:54:27,029 - camlin -INFO - URL in opened
+2022-09-14 12:57:01,573 - camlin -INFO - URL in opened
+2022-09-14 12:57:01,777 - camlin -INFO - Close cookie popup
+2022-09-14 12:57:02,193 - camlin -INFO - Close international popup
+2022-09-14 12:57:02,586 - camlin -INFO - Open search popup
+2022-09-14 12:57:02,714 - camlin -INFO - Enter search query
+2022-09-14 12:57:08,131 - camlin -INFO - Click search button
+2022-09-14 12:57:08,241 - camlin -INFO - Wait till 'Search Results' title appear
+2022-09-14 12:57:08,731 - camlin -INFO - Delete all cookie
+2022-09-14 12:57:16,544 - camlin -INFO - URL in opened
+2022-09-14 12:57:16,717 - camlin -INFO - Close cookie popup
+2022-09-14 12:57:17,143 - camlin -INFO - Close international popup
+2022-09-14 12:57:17,574 - camlin -INFO - Open search popup
+2022-09-14 12:57:17,658 - camlin -INFO - Enter search query
+2022-09-14 12:57:20,233 - camlin -INFO - Click search button
+2022-09-14 12:57:20,280 - camlin -INFO - Wait till 'Search Results' title appear
+2022-09-14 12:57:20,691 - camlin -INFO - Delete all cookie
+2022-09-14 12:57:51,218 - camlin -INFO - URL in opened
+2022-09-14 12:57:51,435 - camlin -INFO - Close cookie popup
+2022-09-14 12:57:51,872 - camlin -INFO - Close international popup
+2022-09-14 12:57:52,295 - camlin -INFO - Open search popup
+2022-09-14 12:57:52,403 - camlin -INFO - Enter search query
+2022-09-14 12:57:57,226 - camlin -INFO - Click search button
+2022-09-14 12:57:57,263 - camlin -INFO - Wait till 'Search Results' title appear
+2022-09-14 12:58:01,273 - camlin -INFO - Delete all cookie
+2022-09-14 12:58:09,303 - camlin -INFO - URL in opened
+2022-09-14 12:58:09,414 - camlin -INFO - Close cookie popup
+2022-09-14 12:58:09,850 - camlin -INFO - Close international popup
+2022-09-14 12:58:10,310 - camlin -INFO - Open search popup
+2022-09-14 12:58:10,396 - camlin -INFO - Enter search query
+2022-09-14 12:58:13,319 - camlin -INFO - Click search button
+2022-09-14 12:58:13,382 - camlin -INFO - Wait till 'Search Results' title appear
+2022-09-14 12:58:19,726 - camlin -INFO - Delete all cookie
+2022-09-14 12:59:34,254 - camlin -INFO - URL in opened
+2022-09-14 12:59:34,513 - camlin -INFO - Close cookie popup
+2022-09-14 12:59:34,929 - camlin -INFO - Close international popup
+2022-09-14 12:59:35,358 - camlin -INFO - Open search popup
+2022-09-14 12:59:35,513 - camlin -INFO - Enter search query
+2022-09-14 12:59:40,518 - camlin -INFO - Click search button
+2022-09-14 12:59:40,588 - camlin -INFO - Wait till 'Search Results' title appear
+2022-09-14 12:59:40,591 - camlin -INFO - Passed for positive test cases
+2022-09-14 12:59:41,374 - camlin -INFO - Delete all cookie
+2022-09-14 12:59:43,716 - camlin -INFO - URL in opened
+2022-09-14 12:59:43,843 - camlin -INFO - Close cookie popup
+2022-09-14 12:59:44,249 - camlin -INFO - Close international popup
+2022-09-14 12:59:44,731 - camlin -INFO - Open search popup
+2022-09-14 12:59:44,835 - camlin -INFO - Enter search query
+2022-09-14 12:59:47,064 - camlin -INFO - Click search button
+2022-09-14 12:59:47,134 - camlin -INFO - Wait till 'Search Results' title appear
+2022-09-14 12:59:47,136 - camlin -INFO - Passed for positive test cases
+2022-09-14 12:59:47,384 - camlin -INFO - Delete all cookie
+2022-09-14 12:59:50,196 - camlin -INFO - URL in opened
+2022-09-14 12:59:50,352 - camlin -INFO - Close cookie popup
+2022-09-14 12:59:50,731 - camlin -INFO - Close international popup
+2022-09-14 12:59:51,205 - camlin -INFO - Open search popup
+2022-09-14 12:59:51,290 - camlin -INFO - Enter search query
+2022-09-14 12:59:54,087 - camlin -INFO - Click search button
+2022-09-14 12:59:54,137 - camlin -INFO - Wait till 'Search Results' title appear
+2022-09-14 12:59:56,950 - camlin -INFO - URL in opened
+2022-09-14 13:26:59,956 - camlin -INFO - URL in opened
+2022-09-14 13:27:00,159 - camlin -INFO - Close cookie popup
+2022-09-14 13:27:00,614 - camlin -INFO - Close international popup
+2022-09-14 13:27:01,069 - camlin -INFO - Open search popup
+2022-09-14 13:27:01,208 - camlin -INFO - Enter search query
+2022-09-14 13:27:18,977 - camlin -INFO - Click search button
+2022-09-14 13:27:19,076 - camlin -INFO - Wait till 'Search Results' title appear
+2022-09-14 13:27:24,612 - camlin -INFO - URL in opened
+2022-09-14 13:45:14,289 - camlin -INFO - URL in opened
+2022-09-14 13:45:14,881 - camlin -INFO - Close cookie popup
+2022-09-14 13:45:15,300 - camlin -INFO - Close international popup
+2022-09-14 13:45:15,771 - camlin -INFO - Open search popup
+2022-09-14 13:45:16,541 - camlin -INFO - Enter search query
+2022-09-14 13:45:21,757 - camlin -INFO - Click search button
+2022-09-14 13:45:21,876 - camlin -INFO - Wait till 'Search Results' title appear
+2022-09-14 13:45:25,365 - camlin -INFO - URL in opened
+2022-09-14 14:32:34,214 - camlin -INFO - URL in opened
+2022-09-14 14:32:34,388 - camlin -INFO - Close cookie popup
+2022-09-14 14:32:34,807 - camlin -INFO - Close international popup
+2022-09-14 14:32:35,314 - camlin -INFO - Open search popup
+2022-09-14 14:32:38,752 - camlin -INFO - Enter search query
+2022-09-14 14:32:44,167 - camlin -INFO - Click search button
+2022-09-14 14:32:44,373 - camlin -INFO - Wait till 'Search Results' title appear
+2022-09-14 14:32:44,375 - camlin -INFO - Passed for positive test cases
+2022-09-14 14:32:44,670 - camlin -INFO - Delete all cookie
+2022-09-14 14:32:48,258 - camlin -INFO - URL in opened
+2022-09-14 14:32:48,542 - camlin -INFO - Close cookie popup
+2022-09-14 14:32:48,907 - camlin -INFO - Close international popup
+2022-09-14 14:32:49,329 - camlin -INFO - Open search popup
+2022-09-14 14:32:49,422 - camlin -INFO - Enter search query
+2022-09-14 14:32:52,058 - camlin -INFO - Click search button
+2022-09-14 14:32:52,105 - camlin -INFO - Wait till 'Search Results' title appear
+2022-09-14 14:32:52,107 - camlin -INFO - Passed for positive test cases
+2022-09-14 14:32:54,405 - camlin -INFO - Delete all cookie
+2022-09-14 14:32:56,410 - camlin -INFO - URL in opened
+2022-09-14 14:32:56,574 - camlin -INFO - Close cookie popup
+2022-09-14 14:32:57,854 - camlin -INFO - Close international popup
+2022-09-14 14:32:58,299 - camlin -INFO - Open search popup
+2022-09-14 14:32:58,368 - camlin -INFO - Enter search query
+2022-09-14 14:33:03,913 - camlin -INFO - Click search button
+2022-09-14 14:33:03,951 - camlin -INFO - Wait till 'Search Results' title appear
+2022-09-14 14:33:04,453 - camlin -INFO - Delete all cookie
+2022-09-14 14:33:07,196 - camlin -INFO - URL in opened
+2022-09-14 14:33:07,401 - camlin -INFO - Close cookie popup
+2022-09-14 14:33:07,955 - camlin -INFO - Close international popup
+2022-09-14 14:33:08,430 - camlin -INFO - Open search popup
+2022-09-14 14:33:08,517 - camlin -INFO - Enter search query
+2022-09-14 14:33:10,998 - camlin -INFO - Click search button
+2022-09-14 14:33:11,049 - camlin -INFO - Wait till 'Search Results' title appear
+2022-09-14 14:33:11,286 - camlin -INFO - Delete all cookie
+2022-09-14 14:35:15,090 - camlin -INFO - URL in opened
+2022-09-14 14:35:15,665 - camlin -INFO - Close cookie popup
+2022-09-14 14:35:16,050 - camlin -INFO - Close international popup
+2022-09-14 14:35:16,542 - camlin -INFO - Open search popup
+2022-09-14 14:35:16,845 - camlin -INFO - Enter search query
+2022-09-14 14:35:21,854 - camlin -INFO - Click search button
+2022-09-14 14:35:21,937 - camlin -INFO - Wait till 'Search Results' title appear
+2022-09-14 14:35:26,026 - camlin -INFO - Passed for positive test cases
+2022-09-14 14:35:26,165 - camlin -INFO - Delete all cookie
+2022-09-14 14:35:28,177 - camlin -INFO - URL in opened
+2022-09-14 14:35:28,299 - camlin -INFO - Close cookie popup
+2022-09-14 14:35:28,684 - camlin -INFO - Close international popup
+2022-09-14 14:35:29,154 - camlin -INFO - Open search popup
+2022-09-14 14:35:29,272 - camlin -INFO - Enter search query
+2022-09-14 14:35:31,300 - camlin -INFO - Click search button
+2022-09-14 14:35:31,342 - camlin -INFO - Wait till 'Search Results' title appear
+2022-09-14 14:35:33,122 - camlin -INFO - Passed for positive test cases
+2022-09-14 14:35:33,304 - camlin -INFO - Delete all cookie
+2022-09-14 14:35:35,735 - camlin -INFO - URL in opened
+2022-09-14 14:35:35,881 - camlin -INFO - Close cookie popup
+2022-09-14 14:35:36,254 - camlin -INFO - Close international popup
+2022-09-14 14:35:36,673 - camlin -INFO - Open search popup
+2022-09-14 14:35:36,760 - camlin -INFO - Enter search query
+2022-09-14 14:35:38,931 - camlin -INFO - Click search button
+2022-09-14 14:35:38,970 - camlin -INFO - Wait till 'Search Results' title appear
+2022-09-14 14:35:39,352 - camlin -INFO - Delete all cookie
+2022-09-14 14:35:41,343 - camlin -INFO - URL in opened
+2022-09-14 14:35:41,508 - camlin -INFO - Close cookie popup
+2022-09-14 14:35:41,907 - camlin -INFO - Close international popup
+2022-09-14 14:35:42,341 - camlin -INFO - Open search popup
+2022-09-14 14:35:42,413 - camlin -INFO - Enter search query
+2022-09-14 14:35:44,559 - camlin -INFO - Click search button
+2022-09-14 14:35:44,611 - camlin -INFO - Wait till 'Search Results' title appear
+2022-09-14 14:35:47,342 - camlin -INFO - Delete all cookie
+2022-09-14 14:40:08,085 - camlin -INFO - URL in opened
+2022-09-14 14:40:08,343 - camlin -INFO - Close cookie popup
+2022-09-14 14:40:08,805 - camlin -INFO - Close international popup
+2022-09-14 14:40:09,238 - camlin -INFO - Open search popup
+2022-09-14 14:40:09,721 - camlin -INFO - Enter search query
+2022-09-14 14:40:13,457 - camlin -INFO - Click search button
+2022-09-14 14:40:13,605 - camlin -INFO - Wait till 'Search Results' title appear
+2022-09-14 14:40:15,966 - camlin -INFO - Passed for positive test cases
+2022-09-14 14:40:16,283 - camlin -INFO - Delete all cookie
+2022-09-14 14:40:19,473 - camlin -INFO - URL in opened
+2022-09-14 14:40:19,585 - camlin -INFO - Close cookie popup
+2022-09-14 14:40:20,008 - camlin -INFO - Close international popup
+2022-09-14 14:40:20,479 - camlin -INFO - Open search popup
+2022-09-14 14:40:20,635 - camlin -INFO - Enter search query
+2022-09-14 14:40:22,234 - camlin -INFO - Click search button
+2022-09-14 14:40:22,446 - camlin -INFO - Wait till 'Search Results' title appear
+2022-09-14 14:40:24,783 - camlin -INFO - Passed for positive test cases
+2022-09-14 14:40:24,934 - camlin -INFO - Delete all cookie
+2022-09-14 14:40:27,164 - camlin -INFO - URL in opened
+2022-09-14 14:40:27,456 - camlin -INFO - Close cookie popup
+2022-09-14 14:40:27,851 - camlin -INFO - Close international popup
+2022-09-14 14:40:28,315 - camlin -INFO - Open search popup
+2022-09-14 14:40:28,408 - camlin -INFO - Enter search query
+2022-09-14 14:40:30,494 - camlin -INFO - Click search button
+2022-09-14 14:40:30,526 - camlin -INFO - Wait till 'Search Results' title appear
+2022-09-14 14:40:34,150 - camlin -INFO - Passed for negative test cases
+2022-09-14 14:40:34,317 - camlin -INFO - Delete all cookie
+2022-09-14 14:40:36,817 - camlin -INFO - URL in opened
+2022-09-14 14:40:36,916 - camlin -INFO - Close cookie popup
+2022-09-14 14:40:37,342 - camlin -INFO - Close international popup
+2022-09-14 14:40:37,767 - camlin -INFO - Open search popup
+2022-09-14 14:40:37,837 - camlin -INFO - Enter search query
+2022-09-14 14:40:40,266 - camlin -INFO - Click search button
+2022-09-14 14:40:40,317 - camlin -INFO - Wait till 'Search Results' title appear
+2022-09-14 14:40:43,270 - camlin -INFO - Passed for negative test cases
+2022-09-14 14:40:43,432 - camlin -INFO - Delete all cookie
+2022-09-14 14:43:16,501 - camlin -INFO - URL in opened
+2022-09-14 14:43:16,670 - camlin -INFO - Close cookie popup
+2022-09-14 14:43:17,146 - camlin -INFO - Close international popup
+2022-09-14 14:43:17,640 - camlin -INFO - Open search popup
+2022-09-14 14:43:17,950 - camlin -INFO - Enter search query
+2022-09-14 14:43:20,580 - camlin -INFO - Click search button
+2022-09-14 14:43:20,648 - camlin -INFO - Wait till 'Search Results' title appear
+2022-09-14 14:43:20,664 - camlin -INFO - Passed for positive test cases
+2022-09-14 14:43:20,804 - camlin -INFO - Delete all cookie
+2022-09-14 14:43:23,198 - camlin -INFO - URL in opened
+2022-09-14 14:43:23,430 - camlin -INFO - Close cookie popup
+2022-09-14 14:43:23,921 - camlin -INFO - Close international popup
+2022-09-14 14:43:24,363 - camlin -INFO - Open search popup
+2022-09-14 14:43:24,499 - camlin -INFO - Enter search query
+2022-09-14 14:43:27,325 - camlin -INFO - Click search button
+2022-09-14 14:43:27,394 - camlin -INFO - Wait till 'Search Results' title appear
+2022-09-14 14:43:27,396 - camlin -INFO - Passed for positive test cases
+2022-09-14 14:43:27,558 - camlin -INFO - Delete all cookie
+2022-09-14 14:43:30,131 - camlin -INFO - URL in opened
+2022-09-14 14:43:30,291 - camlin -INFO - Close cookie popup
+2022-09-14 14:43:30,698 - camlin -INFO - Close international popup
+2022-09-14 14:43:31,167 - camlin -INFO - Open search popup
+2022-09-14 14:43:31,305 - camlin -INFO - Enter search query
+2022-09-14 14:43:33,910 - camlin -INFO - Click search button
+2022-09-14 14:43:33,939 - camlin -INFO - Wait till 'Search Results' title appear
+2022-09-14 14:43:33,940 - camlin -INFO - Passed for negative test cases
+2022-09-14 14:43:34,090 - camlin -INFO - Delete all cookie
+2022-09-14 14:43:37,337 - camlin -INFO - URL in opened
+2022-09-14 14:43:37,474 - camlin -INFO - Close cookie popup
+2022-09-14 14:43:37,877 - camlin -INFO - Close international popup
+2022-09-14 14:43:38,340 - camlin -INFO - Open search popup
+2022-09-14 14:43:38,418 - camlin -INFO - Enter search query
+2022-09-14 14:43:41,425 - camlin -INFO - Click search button
+2022-09-14 14:43:41,473 - camlin -INFO - Wait till 'Search Results' title appear
+2022-09-14 14:43:41,473 - camlin -INFO - Passed for negative test cases
+2022-09-14 14:43:41,638 - camlin -INFO - Delete all cookie

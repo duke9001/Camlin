@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [camlin]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="camlin Test(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.camlin.testCases.TC_SearchDDT_001">
+        <methods>
+          <include name="searchDDT" invocation-numbers="2 3"/>
+          <include name="setup"/>
+          <include name="driverClose"/>
+        </methods>
+      </class> <!-- com.camlin.testCases.TC_SearchDDT_001 -->
+    </classes>
+  </test> <!-- camlin Test(failed) -->
+</suite> <!-- Failed suite [camlin] -->

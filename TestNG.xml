@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+
+<suite name="camlin" verbose="1">
+	<!-- 	for generate html reports -->
+	<listeners>
+		<listener class-name="com.camlin.utilities.Reporting"></listener>
+	</listeners> 
+	<test name="camlin Test">
+	<!-- run on chrome browser -->
+		<parameter name="browser" value="chrome"></parameter>
+		<classes>
+			<class name="com.camlin.testCases.TC_SearchDDT_001"></class>
+		</classes>
+	</test>
+</suite>
